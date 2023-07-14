@@ -16,6 +16,7 @@ COUPON_GROUPS_MAPPING = {
     ],
 
     "cpu": [
+        "users",
     ],
 
 }
